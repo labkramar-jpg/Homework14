@@ -161,4 +161,4 @@ cd /shared_department
 
 Скриншот:
 
-![Проверка outsider](images/debian.png)
+![Проверка outsider](image/debian.png)
