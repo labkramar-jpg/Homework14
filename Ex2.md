@@ -161,4 +161,4 @@ cd /shared_department
 
 Скриншот:
 
-![Проверка outsider](images/VirtualBox_debian_23_05_2026_11_07_04(1).png)
+![Проверка outsider](images/debian.png)
