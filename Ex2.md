@@ -133,7 +133,7 @@ ls -la
 
 Скриншот:
 
-![Проверка employee1](images/employee1(1).png)
+![Проверка employee1](images/employee1.png)
 
 ---
 
